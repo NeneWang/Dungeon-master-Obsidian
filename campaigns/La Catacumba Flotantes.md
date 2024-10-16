@@ -7,6 +7,13 @@
 - Aproximadamente 
 
 
+### Mechanicas Unicas
+
+- Diario del Myrthia
+- Objetivos Secretos y debilidades secretas
+- 
+- 4 hechizos del flotante
+
 ### NPCS
 - 
 
