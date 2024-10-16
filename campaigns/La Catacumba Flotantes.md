@@ -1,13 +1,19 @@
 
 
-
 ### Inpiracion
 
 - Templo de la Luna https://drive.google.com/file/d/1SRvnU_N1l507pvZGZxShxtrBWKYHR9-S/view
 	- Annotation: https://dismastersden.blogspot.com/2020/01/annotated-temple-of-moon-priests.html
 - Aproximadamente 
 
-### Setup
+
+### NPCS
+- 
+
+### Stories
+- 
+
+## Brainstorm
 
 Hace diez años, cerca de las fortalezas de **Baldur**, apareció en el cielo una plataforma flotante, cubierta de lo que parecían ser ruinas de una antigua civilización rica y llena de conocimientos perdidos. Siete años atrás, un eclipse de siete días oscureció la ciudad, y la plataforma descendió lo suficiente para ser accesible. Un ejercito de cientos de mercenarios y exploradores se adentraron en las catacumbas flotantes. Ninguno regresó.
 

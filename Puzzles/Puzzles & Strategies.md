@@ -2,18 +2,17 @@
 ## Puzzles
 
 
-- Estaria bueno que encuntren 
+- Estaria bueno que encuentren 
 
 - [[Orden de Ofrendas y Poemas]]
 - [[Cartas Escritas por detras]]
-- [[Leer las estrellas]]
+- [[Voluntad de Estrellas]]
 - [[4 Armas]]
 - [[Pinturas]]
 - [[Libro de Hechizos Y Poesias]]
 - [[Rueda de runas]]
 - 
 - 
-
 
 ## Combat Strategies
 
@@ -24,5 +23,5 @@
 - [[Arcane Lock & Dispelling]]
 - [[Ayuda al Boss]]
 - [[Fuego Concentrado]]
-- [[Esconderce en Cover]]
+- [[Esconderse en Cover]]
 - 
